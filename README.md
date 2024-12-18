@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ClifftonJohn
-- 👀 I’m interested in programing and developing games
-- 🌱 I’m currently learning unity 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in IT security
+- 🌱 I’m currently learning IT security fields
 - 📫 How to reach me clifftonjohn17@gmail.com
 - Website of our group: https://vgu15.000webhostapp.com/
 <!---
